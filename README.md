@@ -5,7 +5,7 @@ Vector data of gopher.
 The Go gopher was designed by Renee French. (http://reneefrench.blogspot.com/)
 
 ## gopher
-gopher.{ai,svg,png} was created by Takuya Ueda (http://u.hinoichi.net).
+gopher.{ai,svg,png} was created by Takuya Ueda (https://twitter.com/tenntenn).
 Licensed under the Creative Commons 3.0 Attributions license.
 
 <img width="30%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher.png"/>
@@ -14,7 +14,7 @@ Licensed under the Creative Commons 3.0 Attributions license.
 </a>
 
 ## gopher-front
-gopher-front.{ai,svg,png} was created by Takuya Ueda (http://u.hinoichi.net).
+gopher-front.{ai,svg,png} was created by Takuya Ueda (https://twitter.com/tenntenn).
 Licensed under the Creative Commons 3.0 Attributions license.
 
 <img width="30%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher-front.png"/>
@@ -24,7 +24,7 @@ Licensed under the Creative Commons 3.0 Attributions license.
 
 
 ## gopher-side_color
-gopher-side_color.{ai,svg,png} was created by Takuya Ueda (http://u.hinoichi.net).
+gopher-side_color.{ai,svg,png} was created by Takuya Ueda (https://twitter.com/tenntenn).
 Licensed under the Creative Commons 3.0 Attributions license.
 
 <img width="30%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher-side_color.png"/>
@@ -34,7 +34,7 @@ Licensed under the Creative Commons 3.0 Attributions license.
 
 
 ## gopher-side_path
-gopher-side_path.{ai,svg,png} was created by Takuya Ueda (http://u.hinoichi.net).
+gopher-side_path.{ai,svg,png} was created by Takuya Ueda (https://twitter.com/tenntenn).
 Licensed under the Creative Commons 3.0 Attributions license.
 
 <img width="30%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher-side_path.png"/>
